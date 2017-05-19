@@ -1,7 +1,3 @@
-/*
- * Phan, Tony (43284383)
- * Zeng, Jessica (57314018)
-*/
 
 import java.io.FileNotFoundException;
 
