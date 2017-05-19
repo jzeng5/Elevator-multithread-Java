@@ -1,7 +1,4 @@
-/*
- * Phan, Tony (43284383)
- * Zeng, Jessica (57314018)
-*/
+
 
 public class  BuildingManager {
 	//array that stores 5 building floors
