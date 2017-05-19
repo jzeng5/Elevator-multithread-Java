@@ -1,7 +1,4 @@
-/*
- * Phan, Tony (43284383)
- * Zeng, Jessica (57314018)
-*/
+
 
 public class PassengerArrival {
 	//set the number of number of passengers for the request
