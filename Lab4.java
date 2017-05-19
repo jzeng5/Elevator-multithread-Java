@@ -5,7 +5,7 @@
 
 import java.io.FileNotFoundException;
 
-public class Lab4 {
+public class ElevatorControlSystem {
 	//main function that starts the whole program
 	public static void main(String[] args) throws InterruptedException, FileNotFoundException{
 		//create Elevator Simulation object
